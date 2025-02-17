@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil da Cinthia Costa 😁
 
+Desenvolvedora Web
+
  <div>
    <a href="https://github.com/CostaCih">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CostaCih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

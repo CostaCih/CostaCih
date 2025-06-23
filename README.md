@@ -1,6 +1,12 @@
-## Bem-vindo(a) ao perfil da Cinthia Costa 😁
+# Olá! 👋 Meu nome é Cinthia Costa
 
-Desenvolvedora Web
+Sou graduada em Enfermagem, com mais de 14 anos de experiência em processos administrativos, faturamento e suporte técnico em clínicas médicas.
+
+Atualmente estou em transição de carreira para a área de tecnologia, com foco em:
+
+- **Desenvolvimento Web:** PHP, MySQL, HTML, CSS, JavaScript  
+- **Análise de Dados:** SQL, Power BI  
+- **Suporte Técnico:** documentação, atendimento, solução de problemas  
 
  <div>
    <a href="https://github.com/CostaCih">
